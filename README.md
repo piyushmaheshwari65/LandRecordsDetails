@@ -1,2 +1,4 @@
 # LandRecordsDetails
  
+The current land administration system of many countries including India is plagued with incomplete and damaged records. Different departments pertaining to land administration system store their own copy of records, which lead to incomplete verification and document forgery. Land Registry System in India is a very time-consuming process involving many middlemen, thus increasing the fraudulent cases. These problems can be eliminated by the usage of Blockchain Technology for Land Registry Management in India.  It removes the scope for fraudulence by creating an immutable history of records, which is permanently linked to the system, thereby streamlining documentation and record-keeping. It removes the scope for fraudulence by creating an immutable history of records, which is permanently linked to the system, thereby streamlining documentation and record-keeping. 
+
